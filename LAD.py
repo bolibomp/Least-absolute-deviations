@@ -39,7 +39,7 @@ def least_absolute_deviation(x,y):
     else:
         print('NO SOLUTION FOUND')
 
-
+# Small example and comparison to least squares.
 def linear_function(x, k = 3, m = 1):
     """
     Calculate the linear function y = kx + m.
